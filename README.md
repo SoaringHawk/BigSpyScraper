@@ -3,7 +3,7 @@ Ecommerce website Scraper
 '''
 This scraper uses selenium webdriver to create an instance of the browser to scrape data from the targeted website.
 Selenium can be used with any browser (Chrome, Firefox...), but this bot uses Chomedriver which is provided within this repository, however chromedriver has to be installed on your computer for this to work, just google chromedriver or driver for any browser used and download it.
-Also take a look at the requirements file to know the proper package to install
+Also take a look at the requirements file to know the proper package to install.
 
 Selenium use a live representation within the browser which displays the process, this is effective in order to scrape data from site that could require Capchat in which case the user can take over and solve this as fast as possible.
 
